@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-My biggest challenege was not owning a Macbook to develop this pre project as mine stopped working due to a water damage accident. Hence time became one of my biggest challenges too, as I was only able to get my hands on a MacBook after finally able to loan one on  02/02/2022 from my university. I will get my mac book fixed though before the start of the course! Overall, the code was definitely straight and simple, but if I had more time to work on it I would definitely add a lot more features to the app.
+My biggest challenge was not owning a Macbook to develop this pre project as mine stopped working due to a water damage accident. Hence time became one of my biggest challenges too, as I was only able to get my hands on a MacBook after finally able to loan one on  02/02/2022 from my university which was less than 2 days before the deadline. I will get my mac book fixed though before the start of the course! Overall, the code was definitely straight and simple, but if I had more time to work on it I would definitely add a lot more features to the app.
 
 ## License
 
